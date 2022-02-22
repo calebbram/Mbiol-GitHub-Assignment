@@ -1,4 +1,4 @@
-This repository contains data on monthly average rainfall in Oxford and Melbourne from 1855-2015. The code combines the two separate datasets on rainfall into a single dataset, and plots the monthly average rainfall data for both locations together in a simple line graph.
+This repository contains data on monthly average rainfall in Oxford and Melbourne from 1855-2015. The code combines the two separate datasets on rainfall into a single dataset and plots the monthly average rainfall data for both locations together in a simple line graph.
 
 To run this analysis use the following commands:
 
