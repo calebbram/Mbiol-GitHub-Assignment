@@ -56,3 +56,7 @@ write.table(x = plot_df,
             file = "C:/Users/Caleb/OneDrive - Nexus365/Documents/Year 3/R/Mbiol GitHub Assignment/output/average-rainfall.csv",
             sep = ",",
             row.names = FALSE)
+
+sink(file = "C:/Users/Caleb/OneDrive - Nexus365/Documents/Year 3/R/Mbiol GitHub Assignment/output/package-versions.txt")
+sessionInfo()
+sink()
